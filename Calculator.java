@@ -16,7 +16,7 @@ public class App{
         num2 = scanner.nextDouble();
 
         System.out.print("Result:" + "\n");
-        result = num1 / num2;
+        result = num1 + num2;
         System.out.println(result);
     }
 }
